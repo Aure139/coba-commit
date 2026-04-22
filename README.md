@@ -78,3 +78,14 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-62
 - Commit ke-63
 - Commit ke-64
+
+- Commit ke-65
+- Commit ke-66
+- Commit ke-67
+- Commit ke-68
+- Commit ke-69
+- Commit ke-70
+- Commit ke-71
+- Commit ke-72
+- Commit ke-73
+- Commit ke-74
