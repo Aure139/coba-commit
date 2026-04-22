@@ -67,3 +67,14 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-52
 - Commit ke-53
 - Commit ke-54
+
+- Commit ke-55
+- Commit ke-56
+- Commit ke-57
+- Commit ke-58
+- Commit ke-59
+- Commit ke-60
+- Commit ke-61
+- Commit ke-62
+- Commit ke-63
+- Commit ke-64
