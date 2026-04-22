@@ -34,3 +34,14 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-22
 - Commit ke-23
 - Commit ke-24
+
+- Commit ke-25
+- Commit ke-26
+- Commit ke-27
+- Commit ke-28
+- Commit ke-29
+- Commit ke-30
+- Commit ke-31
+- Commit ke-32
+- Commit ke-33
+- Commit ke-34
