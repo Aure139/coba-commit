@@ -111,3 +111,10 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-92
 - Commit ke-93
 - Commit ke-94
+
+- Commit ke-95
+- Commit ke-96
+- Commit ke-97
+- Commit ke-98
+- Commit ke-99
+- Commit ke-100
