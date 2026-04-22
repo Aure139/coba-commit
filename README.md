@@ -45,3 +45,14 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-32
 - Commit ke-33
 - Commit ke-34
+
+- Commit ke-35
+- Commit ke-36
+- Commit ke-37
+- Commit ke-38
+- Commit ke-39
+- Commit ke-40
+- Commit ke-41
+- Commit ke-42
+- Commit ke-43
+- Commit ke-44
