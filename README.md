@@ -100,3 +100,14 @@ Ini adalah percobaan commit pertama saya!
 - Commit ke-82
 - Commit ke-83
 - Commit ke-84
+
+- Commit ke-85
+- Commit ke-86
+- Commit ke-87
+- Commit ke-88
+- Commit ke-89
+- Commit ke-90
+- Commit ke-91
+- Commit ke-92
+- Commit ke-93
+- Commit ke-94
