@@ -12,3 +12,14 @@ Ini adalah percobaan commit pertama saya!
 
 - Commit ke-3
 - Commit ke-4
+
+- Commit ke-5
+- Commit ke-6
+- Commit ke-7
+- Commit ke-8
+- Commit ke-9
+- Commit ke-10
+- Commit ke-11
+- Commit ke-12
+- Commit ke-13
+- Commit ke-14
